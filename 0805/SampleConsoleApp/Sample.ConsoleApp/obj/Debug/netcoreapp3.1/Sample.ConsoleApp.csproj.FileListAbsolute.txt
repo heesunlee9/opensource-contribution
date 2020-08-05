@@ -1,0 +1,12 @@
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/bin/Debug/netcoreapp3.1/Sample.ConsoleApp.deps.json
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/bin/Debug/netcoreapp3.1/Sample.ConsoleApp.runtimeconfig.json
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/bin/Debug/netcoreapp3.1/Sample.ConsoleApp.runtimeconfig.dev.json
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/bin/Debug/netcoreapp3.1/Sample.ConsoleApp.dll
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/bin/Debug/netcoreapp3.1/Sample.ConsoleApp.pdb
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.csprojAssemblyReference.cache
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.AssemblyInfoInputs.cache
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.AssemblyInfo.cs
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.dll
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.pdb
+/Users/joylee/Projects/SampleConsoleApp/Sample.ConsoleApp/obj/Debug/netcoreapp3.1/Sample.ConsoleApp.genruntimeconfig.cache

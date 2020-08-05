@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/joylee/.dotnet/store/|arch|/|tfm|",
+      "/Users/joylee/.nuget/packages"
+    ]
+  }
+}

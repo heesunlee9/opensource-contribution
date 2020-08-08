@@ -1,0 +1,1 @@
+Copy of [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://docs.microsoft.com/en-us/azure/event-hubs/get-started-dotnet-standard-send-v2?WT.mc_id=osscontributhon-event-juyoo)
